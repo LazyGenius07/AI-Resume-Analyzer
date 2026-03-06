@@ -1,11 +1,15 @@
 import SkillChart from "./SkillChart";
+import ReactMarkdown from 'react-markdown';
+
+
 
 function AnalysisResult({ result }) {
   return (
     <section className="results-grid">
       <article className="result-card">
         <h2>AI Analysis</h2>
-        <div className="analysis-text">{result.ai_analysis}</div>
+        <div className="analysis-text">
+  <         ReactMarkdown>{result.ai_analysis}</ReactMarkdown></div>
       </article>
 
       <article className="result-card chart-card">
