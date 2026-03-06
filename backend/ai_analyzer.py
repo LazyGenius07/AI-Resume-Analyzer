@@ -1,6 +1,6 @@
 from google import genai
 
-client = genai.Client(api_key="AIzaSyAoO6_CIZ-SBqAoZy2d90IUVAoNcn3hA8I")
+client = genai.Client(api_key="Your key")
 
 def analyze_resume(data):
 
