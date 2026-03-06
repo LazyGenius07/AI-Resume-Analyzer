@@ -34,31 +34,31 @@ Google Gemini API
  ▼
 Analysis Results
 📂 Project Structure
-ai-resume-analyzer
-│
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   │   ├── ResumeUpload.jsx
-│   │   │   ├── AnalysisResult.jsx
-│   │   │   └── SkillChart.jsx
-│   │   │
-│   │   ├── pages
-│   │   │   └── Home.jsx
-│   │   │
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   │
-│   └── package.json
-│
-├── backend
-│   ├── main.py
-│   ├── resume_parser.py
-│   ├── ai_analyzer.py
-│   ├── trend_analyzer.py
-│   └── requirements.txt
-│
-└── README.md
+    ai-resume-analyzer
+    │
+    ├── frontend
+    │   ├── src
+    │   │   ├── components
+    │   │   │   ├── ResumeUpload.jsx
+    │   │   │   ├── AnalysisResult.jsx
+    │   │   │   └── SkillChart.jsx
+    │   │   │
+    │   │   ├── pages
+    │   │   │   └── Home.jsx
+    │   │   │
+    │   │   ├── App.jsx
+    │   │   └── main.jsx
+    │   │
+    │   └── package.json
+    │
+    ├── backend
+    │   ├── main.py
+    │   ├── resume_parser.py
+    │   ├── ai_analyzer.py
+    │   ├── trend_analyzer.py
+    │   └── requirements.txt
+    │
+    └── README.md
 🛠 Tech Stack
 Frontend
 
