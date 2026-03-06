@@ -1,5 +1,3 @@
-Your README is already good, but it can be made **cleaner, more professional, and GitHub-ready** (better formatting, badges, sections, and readability). Below is a **refined professional version** you can directly paste into GitHub.
-
 ---
 
 # 🤖 AI Resume Analyzer
@@ -265,7 +263,7 @@ Upload a resume file to receive AI analysis.
 
 # 👨‍💻 Author
 
-**Razzaq**
+**Team Mimics**
 Artificial Intelligence & Machine Learning
 **BMS College of Engineering**
 
@@ -287,14 +285,3 @@ Contributions are welcome!
 This project is licensed under the **MIT License**.
 
 ---
-
-✅ This version is **GitHub-level professional** and looks good for:
-
-* hackathons
-* recruiters
-* portfolio
-* GitHub profile
-
----
-
-If you want, I can also show you **3 small changes that make this project look 10× more impressive to recruiters (takes only 5 minutes)**.
