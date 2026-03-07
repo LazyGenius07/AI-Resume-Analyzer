@@ -264,6 +264,9 @@ Upload a resume file to receive AI analysis.
 # 👨‍💻 Author
 
 **Team Mimics**
+>> D M ABDUL RAZZAQ
+>> SAYAMPADMANAWAR
+>> SHASHANK R
 Artificial Intelligence & Machine Learning
 **BMS College of Engineering**
 
@@ -277,5 +280,14 @@ Contributions are welcome!
 2. Create a feature branch
 3. Commit your changes
 4. Open a Pull Request
+
+---
+
+<img width="1835" height="1096" alt="559707582-097e2b28-1c22-433a-83a7-84462a8e813e" src="https://github.com/user-attachments/assets/6dc1cab7-3f06-42a0-af74-6a7352bd9d74" />
+
+---
+
+<img width="1835" height="6748" alt="559709788-706f6b74-79e4-4759-a838-fad9267b03b1" src="https://github.com/user-attachments/assets/5986cbc2-3ba9-483c-9b39-08dbef1d73f6" />
+
 
 ---
